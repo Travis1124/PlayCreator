@@ -1,5 +1,5 @@
 {
-	"name": "Access2SQL",
+	"name": "Access2Sql-adf-pl",
 	"properties": {
 		"description": "Moving data from access database to SQLServer",
 		"annotations": []
