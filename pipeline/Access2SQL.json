@@ -1,0 +1,7 @@
+{
+	"name": "Access2SQL",
+	"properties": {
+		"description": "Moving data from access database to SQLServer",
+		"annotations": []
+	}
+}
