@@ -1,0 +1,6 @@
+{
+	"name": "AccessIntegrationruntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
